@@ -1,1 +1,1 @@
-# spring-data-jpa-examples
+# spring-data-jpa-example
